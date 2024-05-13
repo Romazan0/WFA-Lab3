@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA Lab3", "WFA Lab3\WFA Lab3.csproj", "{3D633E28-79AB-4FBF-9047-00DE8C962232}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D633E28-79AB-4FBF-9047-00DE8C962232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D633E28-79AB-4FBF-9047-00DE8C962232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D633E28-79AB-4FBF-9047-00DE8C962232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D633E28-79AB-4FBF-9047-00DE8C962232}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {257D5348-CA16-4AC9-A092-47D47C3A75EA}
+	EndGlobalSection
+EndGlobal
